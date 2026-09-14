@@ -2,7 +2,7 @@
 # TBH-Utils - Tools Berguna untuk Semua Orang
 # Tulungagung Black Hat - uchil404 | 100% Aman & Berguna
 
-import base64, urllib.parse, hashlib, re, argparse, sys, qrcode, json
+import base64, urllib.parse, hashlib, re, argparse, sys, json
 try:
     import qrcode
     HAS_QR = True
